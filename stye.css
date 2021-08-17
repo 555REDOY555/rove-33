@@ -1,0 +1,77 @@
+.container{
+     margin-left: 13%;
+     margin-right: 13%;
+
+}
+/* header style  */
+.hr-style{
+     border: 1px solid salmon;
+}
+/* main section  */
+.h1-color{
+     text-align: center;
+     font-weight: 700;
+     font-size: 36px;
+     color: #549df4;
+     font-family: Merriweather;
+}
+.h1-normal{
+     text-align: center;
+     font-size: 24px;
+     margin-top: -10px;
+}
+.flex-box{
+     display: flex;
+}
+.p{
+     color: gray;
+}
+.fas{
+     height: 32px;
+     width: 34px;
+     color: #549df4;
+}
+.class-items{
+     text-align: justify;
+}
+.img-style img{
+     height: 350px;
+     width: 350px;
+     margin-left: 90px;
+}
+.p-p{
+     margin-bottom: 80px;
+}
+.ancore{
+     text-decoration: none;
+     color: black;
+    
+}
+.margin{
+     margin-top: 60px;
+}
+.ancore:hover{
+     color:orange;
+}
+.all-do{
+    display: flex;
+    align-items: center;
+ 
+}
+.DONE{
+     background-color: chartreuse;
+     margin-left: 20px;
+}
+.fa-exclamation-triangle{
+     color: red;
+}
+.red{
+     color: red;
+     margin-top: 50px;
+}
+.all-da{
+     margin-top: 60px;
+}
+.ol-size{
+     font-size: 20px;
+}
